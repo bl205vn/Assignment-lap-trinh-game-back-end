@@ -1,0 +1,11 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Cai_San_Thu_Vien.Models
+{
+        public class ResponseAPI
+        {
+            public string message { get; set; }
+            public bool success { get; set; }
+            public object data { get; set; }
+        }
+}

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|d:\\documents\\hoc tap fpoly\\gam106 - l\u1EADp tr\u00ECnh game back-end\\thuchanh\\hoc_o_thu_vien_cai_san_2\\cai_san_thu_vien_2\\controllers\\minecraftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|solutionrelative:controllers\\minecraftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|d:\\documents\\hoc tap fpoly\\gam106 - l\u1EADp tr\u00ECnh game back-end\\thuchanh\\hoc_o_thu_vien_cai_san_2\\cai_san_thu_vien_2\\entity\\minecraftcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|solutionrelative:entity\\minecraftcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|d:\\documents\\hoc tap fpoly\\gam106 - l\u1EADp tr\u00ECnh game back-end\\thuchanh\\hoc_o_thu_vien_cai_san_2\\cai_san_thu_vien_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|d:\\documents\\hoc tap fpoly\\gam106 - l\u1EADp tr\u00ECnh game back-end\\thuchanh\\hoc_o_thu_vien_cai_san_2\\cai_san_thu_vien_2\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|solutionrelative:models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|d:\\documents\\hoc tap fpoly\\gam106 - l\u1EADp tr\u00ECnh game back-end\\thuchanh\\hoc_o_thu_vien_cai_san_2\\cai_san_thu_vien_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7C6FEC4-84CE-479E-8AC9-7C37ECD24CD2}|Cai_San_Thu_Vien.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseAPI.cs",
+              "DocumentMoniker": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Models\\ResponseAPI.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseAPI.cs",
+              "ToolTip": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Models\\ResponseAPI.cs",
+              "RelativeToolTip": "Models\\ResponseAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:32:29.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinecraftController.cs",
+              "DocumentMoniker": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Controllers\\MinecraftController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MinecraftController.cs",
+              "ToolTip": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Controllers\\MinecraftController.cs",
+              "RelativeToolTip": "Controllers\\MinecraftController.cs",
+              "ViewState": "AgIAAD4CAAAAAAAAAAAYwFsCAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:25:15.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:23:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T03:21:40.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinecraftContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Entity\\MinecraftContext.cs",
+              "RelativeDocumentMoniker": "Entity\\MinecraftContext.cs",
+              "ToolTip": "D:\\Documents\\Hoc tap fpoly\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Thuchanh\\Hoc_o_thu_vien_Cai_san_2\\Cai_San_Thu_Vien_2\\Entity\\MinecraftContext.cs",
+              "RelativeToolTip": "Entity\\MinecraftContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:22:51.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

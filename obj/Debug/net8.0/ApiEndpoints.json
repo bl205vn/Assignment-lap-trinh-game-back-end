@@ -1,0 +1,243 @@
+[
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetAllAccount",
+    "RelativePath": "api/Minecraft",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetAllResource",
+    "RelativePath": "api/Minecraft/C1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetPlayersPurchaseCount",
+    "RelativePath": "api/Minecraft/C10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetPlayersByMode",
+    "RelativePath": "api/Minecraft/C2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modeName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetWeaponsByExp",
+    "RelativePath": "api/Minecraft/C3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minExp",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetAffordableItems",
+    "RelativePath": "api/Minecraft/C4",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetItemsByKeywordAndPrice",
+    "RelativePath": "api/Minecraft/C5",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxPrice",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetPlayerTransactions",
+    "RelativePath": "api/Minecraft/C6",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/Minecraft/C8",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "GetTopPurchasedItems",
+    "RelativePath": "api/Minecraft/C9",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/Minecraft/CreateAcc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "charname",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "DeleteAcc",
+    "RelativePath": "api/Minecraft/DeleteAcc",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "UpdateAccount",
+    "RelativePath": "api/Minecraft/UpdateAcc",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "acc",
+        "Type": "Cai_San_Thu_Vien.Models.Account",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "UpdateEmail",
+    "RelativePath": "api/Minecraft/UpdateEmail",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cai_San_Thu_Vien.Controllers.MinecraftController",
+    "Method": "UploadFiles",
+    "RelativePath": "api/Minecraft/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
